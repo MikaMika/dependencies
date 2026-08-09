@@ -8,7 +8,6 @@ Steps:
 - action: archive_extract
   url: https://github.com/FunkyFr3sh/cnc-ddraw/releases/download/v7.0.0.0/cnc-ddraw.zip
   file_name: cnc-ddraw.zip
-  rename: cnc-ddraw-v7.0.0.0.zip
   file_checksum: ca7381b1202eb4a0b75c5608e67d2e65
 
 - action: copy_file
